@@ -10,7 +10,7 @@
 {"type": "file", "p": "bowlrama.zip", "n": "bowlrama", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2003-Plus_Reference/roms/bowlrama.zip"}]}
 {"type": "file", "p": "capbowl.zip", "n": "capbowl", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2003-Plus_Reference/roms/capbowl.zip"}]}
 {"type": "file", "p": "cbasebal.zip", "n": "cbasebal", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2003-Plus_Reference/roms/cbasebal.zip"}]}
-{"type": "file", "p": "coh1000c.zip", "n": "coh1000c", "ext": ".zip", "parent": "", "urls": []}
+{"type": "file", "p": "coh1000c.zip", "n": "coh1000c", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/personal-roms-pack-various-arcade-bios-firmwares/coh1000c.zip"}]}
 {"type": "file", "p": "commando.zip", "n": "commando", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2003-Plus_Reference/roms/commando.zip"}]}
 {"type": "file", "p": "cworld.zip", "n": "cworld", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2003-Plus_Reference/roms/cworld.zip"}]}
 {"type": "file", "p": "diamond.zip", "n": "diamond", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2003-Plus_Reference/roms/diamond.zip"}]}
@@ -37,7 +37,7 @@
 {"type": "file", "p": "nbajamte.zip", "n": "nbajamte", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2003-Plus_Reference/roms/nbajamte.zip"}]}
 {"type": "file", "p": "plsmaswd.zip", "n": "plsmaswd", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2016_Arcade_Romsets/roms.zip/roms/plsmaswd.zip"}]}
 {"type": "file", "p": "qsangoku.zip", "n": "qsangoku", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2003-Plus_Reference/roms/qsangoku.zip"}]}
-{"type": "file", "p": "qsound_hle.7z", "n": "qsound_hle", "ext": ".7z", "parent": "", "urls": []}
+{"type": "file", "p": "qsound_hle.7z", "n": "qsound_hle", "ext": ".7z", "parent": "", "urls": [{"u": "https://ia801908.us.archive.org/19/items/mame-0.205-roms-merged/qsound_hle.zip"}]},
 {"type": "file", "p": "qtono1.zip", "n": "qtono1", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2003-Plus_Reference/roms/qtono1.zip"}]}
 {"type": "file", "p": "rushcrsh.zip", "n": "rushcrsh", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2003-Plus_Reference/roms/rushcrsh.zip"}]}
 {"type": "file", "p": "sbxc.zip", "n": "sbxc", "ext": ".zip", "parent": "", "urls": [{"u": "https://archive.org/download/MAME_2016_Arcade_Romsets/roms.zip/roms/sbxc.zip"}]}

@@ -1,11 +1,11 @@
 {"type": "dir", "p": "- Demos -", "n": "- Demos -", "parent": ""}
-{"type": "dir", "p": "- Europa (Repetidos) -", "n": "- Europa (Repetidos) -", "parent": ""}
+{"type": "dir", "p": "- Europa (Repetidos) -", "n": "- Europa Repetidos -", "parent": ""}
 {"type": "dir", "p": "- Japan -", "n": "- Japan -", "parent": ""}
 {"type": "dir", "p": "- Otros -", "n": "- Otros -", "parent": ""}
 {"type": "dir", "p": "- USA -", "n": "- USA -", "parent": ""}
-{"type": "dir", "p": "psx (EUR) chd", "n": "psx (EUR) chd", "parent": ""}
-{"type": "dir", "p": "psx (JAP) chd", "n": "psx (JAP) chd", "parent": ""}
-{"type": "dir", "p": "psx (USA) chd", "n": "psx (USA) chd", "parent": ""}
+{"type": "dir", "p": "psx (EUR) chd", "n": "psx EUR chd", "parent": ""}
+{"type": "dir", "p": "psx (JAP) chd", "n": "psx JAP chd", "parent": ""}
+{"type": "dir", "p": "psx (USA) chd", "n": "psx USA chd", "parent": ""}
 {"type": "file", "p": "- Demos -/'98 Koushien (Japan) (Demo).zip", "n": "'98 Koushien (Japan) (Demo)", "ext": ".zip", "parent": "- Demos -", "urls": [{"u": "https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/%2798%20Koushien%20%28Japan%29%20%28Demo%29.zip"}]}
 {"type": "file", "p": "- Demos -/'99 Koushien (Japan) (Demo).zip", "n": "'99 Koushien (Japan) (Demo)", "ext": ".zip", "parent": "- Demos -", "urls": [{"u": "https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/%2799%20Koushien%20%28Japan%29%20%28Demo%29.zip"}]}
 {"type": "file", "p": "- Demos -/007 - The World Is Not Enough (USA) (Beta) (2000-08-26).zip", "n": "007 - The World Is Not Enough (USA) (Beta) (2000-08-26)", "ext": ".zip", "parent": "- Demos -", "urls": [{"u": "https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/007%20-%20The%20World%20Is%20Not%20Enough%20%28USA%29%20%28Beta%29%20%282000-08-26%29.zip"}]}
