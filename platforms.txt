@@ -58,3 +58,4 @@ gx4000
 zxspectrum
 zx81
 dos
+c128
